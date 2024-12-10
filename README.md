@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phezi
-- 👀 I’m interested in...transitioning into Cybersecurity
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in...transitioning into Cybersecurity and Web Development
+- 🌱 I’m currently learning ... HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on ... learning how to code.
 - 📫 How to reach me ...here
 - 😄 Pronouns: ...She/Her
